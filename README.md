@@ -6,4 +6,4 @@
 
 **👀 Download `Hoops(3).apk` file** *(in the home directory)* **to check it out and install it on your phone**
 
-<img src="http://safwanhossain.com/images/Hoops-1.jpg" alt="alt text" width="250" height="350"> <img src="http://safwanhossain.com/images/Hoops.jpg" alt="alt text" width="250" height="350"> <img src="http://safwanhossain.com/images/Hoops-2.jpg" alt="alt text" width="250" height="350">
+<img src="http://safwanhossain.com/images/Hoops-1.jpg" alt="alt text" width="250" height="350"> <img src="Hoops-Game-Video-GIF.gif" alt="alt text" width="250" height="350"> <img src="http://safwanhossain.com/images/Hoops-2.jpg" alt="alt text" width="250" height="350"> 
